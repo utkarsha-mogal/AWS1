@@ -1,0 +1,54 @@
+1)What is Cloud Computing?
+->cloud computing involves delivering different types of services over the Internet from software and analytics to secure and safe data storage
+ and networking resources,everything can be delivered via the cloud.
+->It stores and access data & programs over the internet instead of your computers hard drive.
+
+2)Types of cloud computing?
+->1)Public cloud-
+Public cloud is general services offered to users over the internet. It is the most economical option for users in which the service provider bears the expenses 
+of bandwidth and infrastructure. It has limited configurations, and the cost is determined by usage capacity.It has high reliability, lower costs, zero maintenance 
+and on-demand scalability, the public cloud is not suitable for organizations operating with sensitive information as they have to comply with stringent security regulations.
+
+   2)Privte cloud-
+-> private cloud is used by large organizations to build and manage their own data centers for specific business and IT  operations. The private cloud provides more
+ control over customizability, scalability and flexibility, while improving security of assets and business operations. This sort of infrastructure can be built on premises or 
+outsourced to a third party service provider  either way, it has the ability to maintain the hardware and software environment over a private network solely for the owner.
+ Large- and medium-scale financial enterprises and government agencies typically  for private clouds.
+
+ 3)Hybrid cloud-
+->Hybrid cloud is the combination of a private and public cloud, providing for more flexibility to businesses while having control over critical operations and assets,
+ coupled with improved flexibility and cost efficiency. The hybrid cloud architecture enables companies to take advantage of the public cloud as and when necessary
+ due to their easy workload migration. For instance, businesses can use the public cloud for running high-volume applications like emails, and utilize private clouds for
+ sensitive assets like financials, data recovery, and during scheduled maintenance and rise in demand.
+
+3)Advantages of cloud computing?
+->1) Security
+cloud computing offers great security when any sensitive data has been lost. As the data is stored in the system, it can be easily accessed even if something happens to your
+computer. You can even remotely wipe out data from the lost machines for avoiding it getting in the wrong hands.
+   2) scalability
+cloud computing enables immediate scalability of infrastructure capacity depending on the business need. It is like having an unlimited IT resource, which can be scaled 
+up and or down to meet user demands
+  3)Reduced carbon footprint
+  cloud infrastructure significantly reduces power, IT infrastructure, and resource consumption by offering resources as per demand, thereby reducing 
+e-waste and adverse impact on the environmental
+ 4)Flexibility
+From closed cabins to bringing your internet-enabled devices to work, irrespective of the device type and/ or global location, cloud offers vast flexibility and empowerment 
+to businesses as well as to their employees
+ 5)Increased speed and operational agility:
+To cope with competition, businesses must have the ability to instantly scale their cloud capacity by accessing bandwidth demands from remote servers of a particular
+cloud service provider. If the business demand is more, the enterprise can turn up its computing capacity and IT resources availability with the click of a button. Such an 
+ability improves organizational agility, productivity and efficiency making scope to experiment with new ideas and thereby, offering competitive advantage and the ability
+for the organization of any size to disrupt the market
+ 6)Reduced expenditure
+With the cloud, enterprises can focus on building their business rather than investing in hardware infrastructure and data centers that either remain idle, or underutilized. 
+cloud costs, however, depend on the consumption a variable expense
+ 7)Automatic updates/ patches
+When enterprises deal with several different kinds of software, operating systems, and applications from various vendors for their everyday operations, they have to have
+software and security updates rolled out from time to time. this is a very time consuming process and the downtime for system maintenance means loss of productivity. 
+a cloud service provider or a managed service provider can take care of these automatically, saving time and manual effort on maintenance.
+
+4)What is Ec2?
+->It stands for Amazon elastic cloud 
+->Amazon Elastic Compute Cloud (EC2) is a part of Amazon.com's cloud computing platform, Amazon Web Services that allows users to rent virtual computers on which
+ to run their own computer applications.
+->Using Amazon EC2 eliminates your need to invest in hardware up front, so you can develop and deploy applications faster.
